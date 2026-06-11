@@ -1,4 +1,3 @@
-
 CREATE TABLE IF NOT EXISTS towns (
   town_id INT NOT NULL,
   name varchar(50) NOT NULL,
