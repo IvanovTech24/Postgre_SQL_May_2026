@@ -68,4 +68,5 @@ CREATE TABLE cars_drivers(
         ON UPDATE CASCADE
         ON DELETE CASCADE
         NOT NULL
+
 );
